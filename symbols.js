@@ -1,4 +1,4 @@
-{
+export default {
   "IOTA": ["IOT", "MIOTA", "IOTA"],
   "Bitcoin": ["BTC"],
   "Hshare": ["HSR"],
