@@ -1,6 +1,6 @@
 {
   "name": "ccxt-cmc",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "map symbols between ccxt and coinmarketcap",
   "main": "symbols.js",
   "scripts": {
